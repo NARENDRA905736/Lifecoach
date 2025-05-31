@@ -42,6 +42,10 @@
     transition: 0.5s;
     right: 0;
 }
+#tab ul li a {
+    text-decoration: none;
+    color: #000000;
+}
 ol, ul {
     padding-left: 1rem;
 }
@@ -390,8 +394,9 @@ p {
     margin-top: 0;
     margin-bottom: 1rem;
 }
-a {
-    font-size: 18px;
+.pic-text a {
+    font-size: 20px;
+    color: #a88a12 !important;
 }
 .pic-box {
     height: 525px;

@@ -58,7 +58,7 @@ i.fa-solid.fa-phone {
     display: flex;
     list-style: none;
     margin: 0px;
-    font-size: 27px;
+    font-size: 20px;
 }
 
 #bar,
@@ -117,13 +117,12 @@ video {
 
 .Flex-box-main {
     background: rgb(168 138 18 / 58%);
-    width: 48%;
-    height: 387px;
+    width: 44%;
+    height: 310px;
     position: absolute;
-    top: 606px;
+    top: 250px;
     left: 98px;
     text-align: center;
-    border-radius: 56px 56px 56px 56px;
 }
 .Flex-box-1 {
     padding: 37px;
@@ -133,14 +132,14 @@ video {
     color: rgb(255, 255, 255);
     font-weight: normal;
     display: unset;
-    font-size: 47px;
+    font-size: 36px;
     font-weight: bold;
 }
 .Flex-box-2 span {
     color: rgb(255, 255, 255);
     font-weight: normal;
     display: unset;
-    font-size: 38px;
+    font-size: 30px;
     font-weight: bold;
 }
 
@@ -231,12 +230,12 @@ button {
 }
 
 .work-text h1 {
-    font-size: 36px;
+    font-size: 30px;
 }
 
 .work-text p {
     font-weight: 500;
-    font-size: 19px;
+    font-size: 17px;
 }
 .service-section {
     padding: 40px;
@@ -266,7 +265,7 @@ button {
 .pic-box {
     background: white;
     margin: 10px;
-    height: 592px;
+    height: 610px;
 }
 
 .heding h2 {
